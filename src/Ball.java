@@ -1,6 +1,8 @@
 import java.awt.*;
 import java.util.Random;
 
+//loch
+
 public class Ball {
 
     public int x, y;
